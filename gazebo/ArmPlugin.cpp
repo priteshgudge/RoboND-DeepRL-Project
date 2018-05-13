@@ -179,7 +179,7 @@ bool ArmPlugin::createAgent()
                        LEARNING_RATE, REPLAY_MEMORY, BATCH_SIZE, 
                        GAMMA, EPS_START, EPS_END, EPS_DECAY,
                        USE_LSTM, LSTM_SIZE, ALLOW_RANDOM, DEBUG_DQN);
-	if( !agent )
+	if( agent == NULL )
 	{
 		printf("ArmPlugin - failed to create DQN agent\n");
 		return false;
