@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Background}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Deep Q-Networks}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Simulations}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Arm Collision}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Gripper Collision}{section.3}% 6
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Gripper Collision}{subsection.3.2}% 7
+\BOOKMARK [1][-]{section.4}{Results}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Kitchen World}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Custom World}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Technical Comparison}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 12
+\BOOKMARK [1][-]{section.6}{Conclusion / Future work}{}% 13
+\BOOKMARK [2][-]{subsection.6.1}{Modifications for Improvement}{section.6}% 14
+\BOOKMARK [2][-]{subsection.6.2}{Hardware Deployment}{section.6}% 15
+\BOOKMARK [1][-]{section*.1}{References}{}% 16
